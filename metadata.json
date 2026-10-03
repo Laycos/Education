@@ -1,0 +1,6 @@
+{
+  "name": "Cap Révision 5ème - Web & Mobile",
+  "description": "Plateforme interactive et 3D de révision pour le collège en classe de 5ème (Maths, Physique, Chimie, SVT, Technologie) avec fiches mémo, schémas interactifs, quiz, annales 6 ans et tuteur IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
